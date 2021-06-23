@@ -44,7 +44,7 @@ class EmployeeBuilder extends PersonBuilder<EmployeeBuilder>{
 }
 
 
-class Demmo{
+class Demo{
 
     public static void main(String[] args) {
         final EmployeeBuilder personBuilder = new EmployeeBuilder();
